@@ -20,3 +20,7 @@ Route::get('about', function () {
 Route::get('reports-functionality', function () {
     return "reports-functionality";
 });
+
+Route::get('erp-functionality', function () {
+    return "erp-functionality";
+});
