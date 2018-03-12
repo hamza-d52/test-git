@@ -17,3 +17,6 @@ Route::get('/', function () {
 Route::get('about', function () {
     return "Change about us";
 });
+Route::get('reports-functionality', function () {
+    return "reports-functionality";
+});
